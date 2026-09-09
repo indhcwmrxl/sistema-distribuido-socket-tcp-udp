@@ -1,5 +1,12 @@
 # Sistemas Distribuídos - Ambiente Virtualizado com Socket TCP/UDP
 
+## 📹 Demonstração
+
+<video width="100%" controls>
+  <source src="video.webm" type="video/webm">
+  Seu navegador não suporta a tag de vídeo.
+</video>
+
 ## 📋 Descrição do Trabalho
 
 Implementação de um ambiente de rede virtualizado utilizando máquinas virtuais, com infraestrutura corporativa básica contendo:
