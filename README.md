@@ -1,11 +1,18 @@
-# Sistemas Distribuídos - Ambiente Virtualizado com Socket TCP/UDP
+<div align="center">
 
-## 📹 Demonstração
+# 🖥️ Sistemas Distribuídos — Socket TCP/UDP
 
-<video width="100%" controls>
-  <source src="Video.webm" type="video/webm">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+### Ambiente Virtualizado com Redes Internas e Servidores Multithread
+
+<br>
+
+https://github.com/indhcwmrxl/sistema-distribuido-socket-tcp-udp/raw/main/Video.webm
+
+<br>
+
+</div>
+
+---
 
 ## 📋 Descrição do Trabalho
 
@@ -16,6 +23,8 @@ Implementação de um ambiente de rede virtualizado utilizando máquinas virtuai
 - **Rede Externa** com acesso à internet
 - **Servidores Socket TCP/UDP Multithread**
 - **Clientes TCP/UDP** para comunicação em rede
+
+---
 
 ## 🏗️ Arquitetura
 
@@ -38,6 +47,8 @@ Implementação de um ambiente de rede virtualizado utilizando máquinas virtuai
 - Cliente Socket TCP
 - Cliente Socket UDP
 - 1 Interface de Rede: Rede Interna
+
+---
 
 ## 🎯 Objetivos
 
